@@ -1,5 +1,5 @@
 Flask
-whisper
+openai-whisper
 torch
 torchaudio
 numpy
